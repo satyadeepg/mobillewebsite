@@ -1,0 +1,12 @@
+.bgimg {
+	background-image: url('https://img.freepik.com/free-vector/isometric-mobile-phone-background-template_52683-7075.jpg?size=626&ext=jpg&ga=GA1.2.1474152455.1668484145&semt=sph');
+	background-size: cover;
+	height: 100vh;
+}
+.layoutcard {
+	background-color: white;
+	height: 200px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	padding: 20px;
+}

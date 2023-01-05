@@ -1,0 +1,33 @@
+.bgimg2 {
+	background-image: url('https://img.freepik.com/free-vector/gradient-abstract-hexagon-shapes-background_23-2149120168.jpg?size=626&ext=jpg&ga=GA1.2.1474152455.1668484145&semt=sph');
+	background-size: cover;
+	height: 130vh;
+}
+.mobilehead {
+	color: white;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 35px;
+	padding: 25px;
+}
+.layoutcard2 {
+	background-color:white;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 18px;
+}
+.brandsimg {
+	width: 120px;
+	height: 120px;
+}
+.brandshead {
+	color: #041836;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 30px;
+}
+.brandspara {
+	color: darkgrey;
+    font-family: 'Roboto';
+    font-size: 15px;
+}
